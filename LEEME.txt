@@ -1,0 +1,8 @@
+
+Nombre de la compañía: Droplet.Inc.
+Miembros: Dahiana Bran, Nataly Lievano, Elio Mercado, Lukas Piedrahita, Juan Diego Portillo, Pablo Serna.
+Enlace al Trello y al archivo original Google Slides de la diapositiva.
+https://trello.com/invite/b/37wD452f/ATTIc83e16bcbdbea15632d2d0a973c1a938AA650803/droplet-inc
+https://docs.google.com/presentation/d/1-fp1kcut43ZPsoLKyHWRJGkiM1EWOnVpwh4NQTnctUI/edit?usp=sharing
+
+La calculadora debe abrirse en IntellIJ.
